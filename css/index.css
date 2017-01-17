@@ -6,6 +6,10 @@
   color: green;
 }
 .why {
-  color: blue
-  font-family: cursive;
+  color: blue;
+}
+.me {
+  color: pink;
+  font-weight:bold;
+  font-family: cursive;;
 }
