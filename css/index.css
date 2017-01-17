@@ -1,0 +1,11 @@
+.what {
+  color: red;
+ font-style: italic;
+}
+.where {
+  color: green;
+}
+.why {
+  color: blue
+  font-family: cursive;
+}
